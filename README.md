@@ -1,9 +1,9 @@
-IN This Repository We Discussed About
+## IN This Repository We Discussed About
 
-    > Write a blog on the difference between document and window object
+### The Difference Between Document And Window Object.
+>
+> I posted  a blog on medium.com about the difference between document and window object.
 
+[CLICK HERE](https://medium.com/@kavinprasad2948/the-difference-between-document-and-window-object-3d781e766bcc) For Link.
 
-
-I have posted a blog on Medium.com about the differences between HTTP 1.1 and HTTP 2.
-
-    CLICK HERE For Link.
+---
