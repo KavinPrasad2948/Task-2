@@ -1,6 +1,6 @@
-## IN This Repository We Discussed About
+# The Difference Between Document And Window Object.
 
-### The Difference Between Document And Window Object.
+>IN This Repository We Discussed About
 
 >I posted  a blog on medium.com about the difference between document and window object.
 
